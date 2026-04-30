@@ -10,8 +10,6 @@
 
 **Full Stack Engineer & Tech Lead** construyendo productos web, mobile y herramientas con IA aplicada.
 
-Trabajo en la intersección entre producto, arquitectura y ejecución técnica: frontend, backend, mobile, infraestructura, automatización e integración de IA donde realmente aporta valor.
-
 ### Proyectos recientes
 
 | Proyecto | Detalle |
@@ -21,18 +19,6 @@ Trabajo en la intersección entre producto, arquitectura y ejecución técnica: 
 | <a href="https://github.com/NorbertOSK/pixora"><img src="./assets/projects/pixora.png" width="96" alt="Pixora" /></a> | **[Pixora ↗](https://github.com/NorbertOSK/pixora)**<br><br>Herramienta desktop open source para procesamiento local de imágenes.<br><br>Redimensionado y conversión · limpieza de metadatos EXIF · remoción de fondos con IA local · procesamiento offline, sin cuentas ni tracking.<br><br>**Stack:** Rust · React · TypeScript · Tauri · Vite · Tailwind CSS · ONNX Runtime |
 | <a href="https://oniria.app/"><img src="./assets/projects/oniria.png" width="96" alt="Oniria" /></a> | **[Oniria ↗](https://oniria.app/)**<br><br>App mobile publicada en App Store y Google Play para registro e interpretación de sueños con IA.<br><br>Arquitectura end-to-end mobile + backend · autenticación con Google y Apple · compras in-app · IA generativa.<br><br>**Stack:** React Native · NestJS · MongoDB · Redis · OpenAI API |
 | <a href="https://leterme.life"><img src="./assets/projects/leterme.png" width="96" alt="leterme" /></a> | **[leterme ↗](https://leterme.life)**<br><br>Plataforma para guardar mensajes a tu yo del futuro en texto, audio o video.<br><br>Cápsulas temporales con apertura futura · plan Pro de pago único · álbum privado asociado a cada cápsula.<br><br>**Stack:** Astro · Node.js · NestJS · PostgreSQL |
-
-### Otros proyectos y trabajos visibles
-
-[RitmoVital ↗](https://ritmovital.app/) · [GoJiraf ↗](https://www.gojiraf.ai/) · [Paola Enciso ↗](https://paolaenciso.com/) · [MapApp ↗](https://app-maps.demosweb.net/) · [WordPress Avanzado ↗](https://wordpressavanzado.com/)
-
-### Trabajos y colaboraciones recientes
-
-- **Senior Full Stack Consultant & Product Builder** — productos propios y consultoría técnica desde [norbertok.com ↗](https://norbertok.com).
-- **Frontend Tech Lead — GoJiraf** — liderazgo de equipo frontend en plataforma de live shopping usada por marcas como MercadoLibre y Samsung.
-- **Frontend Software Engineer — etermax** — desarrollo frontend de alto rendimiento para productos internos de Ads.
-- **Frontend Technical Lead — Accenture / Banco Galicia** — definición de estándares React y aprobación técnica formal del proyecto.
-- **IT Engineer · Automation & Software — INVAP S.E.** — automatización, tooling e infraestructura crítica para el proyecto nacional de Televisión Digital Abierta.
 
 ### Stack principal
 

@@ -10,8 +10,6 @@
 
 **Full Stack Engineer & Tech Lead** building web, mobile and AI-powered products.
 
-I work at the intersection of product, architecture and technical execution: frontend, backend, mobile, infrastructure, automation and applied AI where it actually creates value.
-
 ### Recent projects
 
 | Project | Details |
@@ -21,18 +19,6 @@ I work at the intersection of product, architecture and technical execution: fro
 | <a href="https://github.com/NorbertOSK/pixora"><img src="./assets/projects/pixora.png" width="96" alt="Pixora" /></a> | **[Pixora ↗](https://github.com/NorbertOSK/pixora)**<br><br>Open source desktop tool for local image processing.<br><br>Image resizing and conversion · EXIF metadata cleanup · local AI background removal · offline processing, no accounts, no tracking.<br><br>**Stack:** Rust · React · TypeScript · Tauri · Vite · Tailwind CSS · ONNX Runtime |
 | <a href="https://oniria.app/"><img src="./assets/projects/oniria.png" width="96" alt="Oniria" /></a> | **[Oniria ↗](https://oniria.app/)**<br><br>Published mobile app for dream journaling and AI-assisted dream interpretation.<br><br>End-to-end mobile + backend architecture · Google and Apple authentication · in-app purchases · generative AI integration.<br><br>**Stack:** React Native · NestJS · MongoDB · Redis · OpenAI API |
 | <a href="https://leterme.life"><img src="./assets/projects/leterme.png" width="96" alt="leterme" /></a> | **[leterme ↗](https://leterme.life)**<br><br>Platform to save messages to your future self in text, audio or video.<br><br>Time-locked capsules with future opening dates · one-time payment Pro plan · private photo album attached to each capsule.<br><br>**Stack:** Astro · Node.js · NestJS · PostgreSQL |
-
-### Other visible projects and work
-
-[RitmoVital ↗](https://ritmovital.app/) · [GoJiraf ↗](https://www.gojiraf.ai/) · [Paola Enciso ↗](https://paolaenciso.com/) · [MapApp ↗](https://app-maps.demosweb.net/) · [WordPress Avanzado ↗](https://wordpressavanzado.com/)
-
-### Recent work and collaborations
-
-- **Senior Full Stack Consultant & Product Builder** — own products and technical consulting through [norbertok.com ↗](https://norbertok.com).
-- **Frontend Tech Lead — GoJiraf** — frontend team leadership for a live shopping platform used by brands such as MercadoLibre and Samsung.
-- **Frontend Software Engineer — etermax** — high-performance frontend development for internal Ads products.
-- **Frontend Technical Lead — Accenture / Banco Galicia** — React standards definition and formal technical approval for the project.
-- **IT Engineer · Automation & Software — INVAP S.E.** — automation, tooling and critical infrastructure for Argentina's national Digital Terrestrial Television project.
 
 ### Core stack
 
