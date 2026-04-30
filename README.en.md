@@ -1,0 +1,41 @@
+# Norberto Krucheski
+
+[Website ↗](https://norbertok.com) · [LinkedIn ↗](https://www.linkedin.com/in/norberto-krucheski/) · [Email](mailto:contact@norbertok.com)
+
+[← Home](./README.md) · [🇪🇸 Español](./README.es.md) · [🇧🇷 Português](./README.pt.md)
+
+---
+
+## English
+
+**Full Stack Engineer & Tech Lead** building web, mobile and AI-powered products.
+
+I work at the intersection of product, architecture and technical execution: frontend, backend, mobile, infrastructure, automation and applied AI where it actually creates value.
+
+### Recent projects
+
+| Project | Details |
+| --- | --- |
+| <a href="https://tumenu.promo/en"><img src="./assets/projects/tumenu.png" width="96" alt="TuMenu" /></a> | **[TuMenu ↗](https://tumenu.promo/en)** · [ES ↗](https://tumenu.promo) · [PT ↗](https://tumenu.promo/pt)<br><br>Product for restaurants with digital QR menus, WhatsApp ordering and integrated checkout.<br><br>30+ active restaurants across LATAM · React restaurant dashboard · Astro public menu with SSR · independent NestJS APIs.<br><br>**Stack:** React · Astro · Node.js · NestJS · PostgreSQL · Redis · SSE |
+| <a href="https://ascends.life/en"><img src="./assets/projects/ascend-life.png" width="96" alt="Ascend Life" /></a> | **[Ascend Life ↗](https://ascends.life/en)** · [ES ↗](https://ascends.life) · [PT ↗](https://ascends.life/pt)<br><br>Personal growth product with personalized plans, audio, text and PDF content.<br><br>Paying users since launch · personalized 28-day plans · Stripe payments · Redis-powered retargeting and automations.<br><br>**Stack:** Next.js · React · NestJS · PostgreSQL · Redis · Stripe · Supabase · PWA |
+| <a href="https://github.com/NorbertOSK/pixora"><img src="./assets/projects/pixora.png" width="96" alt="Pixora" /></a> | **[Pixora ↗](https://github.com/NorbertOSK/pixora)**<br><br>Open source desktop tool for local image processing.<br><br>Image resizing and conversion · EXIF metadata cleanup · local AI background removal · offline processing, no accounts, no tracking.<br><br>**Stack:** Rust · React · TypeScript · Tauri · Vite · Tailwind CSS · ONNX Runtime |
+| <a href="https://oniria.app/"><img src="./assets/projects/oniria.png" width="96" alt="Oniria" /></a> | **[Oniria ↗](https://oniria.app/)**<br><br>Published mobile app for dream journaling and AI-assisted dream interpretation.<br><br>End-to-end mobile + backend architecture · Google and Apple authentication · in-app purchases · generative AI integration.<br><br>**Stack:** React Native · NestJS · MongoDB · Redis · OpenAI API |
+| <a href="https://leterme.life"><img src="./assets/projects/leterme.png" width="96" alt="leterme" /></a> | **[leterme ↗](https://leterme.life)**<br><br>Platform to save messages to your future self in text, audio or video.<br><br>Time-locked capsules with future opening dates · one-time payment Pro plan · private photo album attached to each capsule.<br><br>**Stack:** Astro · Node.js · NestJS · PostgreSQL |
+
+### Other visible projects and work
+
+[RitmoVital ↗](https://ritmovital.app/) · [GoJiraf ↗](https://www.gojiraf.ai/) · [Paola Enciso ↗](https://paolaenciso.com/) · [MapApp ↗](https://app-maps.demosweb.net/) · [WordPress Avanzado ↗](https://wordpressavanzado.com/)
+
+### Recent work and collaborations
+
+- **Senior Full Stack Consultant & Product Builder** — own products and technical consulting through [norbertok.com ↗](https://norbertok.com).
+- **Frontend Tech Lead — GoJiraf** — frontend team leadership for a live shopping platform used by brands such as MercadoLibre and Samsung.
+- **Frontend Software Engineer — etermax** — high-performance frontend development for internal Ads products.
+- **Frontend Technical Lead — Accenture / Banco Galicia** — React standards definition and formal technical approval for the project.
+- **IT Engineer · Automation & Software — INVAP S.E.** — automation, tooling and critical infrastructure for Argentina's national Digital Terrestrial Television project.
+
+### Core stack
+
+React · TypeScript · Next.js · Astro · Node.js · NestJS · React Native · PostgreSQL · MongoDB · Redis · Docker · AWS · Railway · Tauri · Rust · AI APIs
+
+[Back to top](#norberto-krucheski)
